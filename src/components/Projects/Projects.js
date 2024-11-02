@@ -57,7 +57,7 @@ function Projects() {
               isBlog={false}
               title="Tender Scraper"
               description="The purpose of this project is to develop a web scraping application that can extract tender information from various government websites using a tech stack consisting of NodeJS, MongoDB, Python, OCR Recognition, Machine learning, and Amazon S3. The application will be designed to automatically identify and bypass Captcha verification using advanced machine learning algorithms and OCR Recognition techniques."
-              websiteLink="https://theyogainstitute.org/courses"
+               ghLink="https://github.com/harmeet1999/Tender-Scraper"
 
             />
           </Col>
