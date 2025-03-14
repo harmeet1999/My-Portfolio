@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Node.js, Go, and TypeScript. </b>
+                <b className="purple"> Node.js, Go, Java, and TypeScript. </b>
               </i>
               <br />
               <br />
